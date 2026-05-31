@@ -1,4 +1,4 @@
-# IEEE 30-Bus Contingency Analysis
+# IEEE 30-Bus Case
 
 This folder contains MATLAB data and scripts for power flow simulation and N-1 contingency analysis on the IEEE 30-bus test system. The main dataset refers to the classic IEEE 30-bus system with a 100 MVA base, 30 buses, 41 transmission lines, and 6 generator buses.
 
